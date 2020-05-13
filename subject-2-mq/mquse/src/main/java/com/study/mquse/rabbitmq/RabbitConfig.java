@@ -6,7 +6,7 @@ package com.study.mquse.rabbitmq;
  */
 public class RabbitConfig {
 
-    public final static String HOST = "rabbitmq.dn.com";
+    public final static String HOST = "rabbitmq.study.com";
     public final static int PORT = 5672;
     public final static String USERNAME = "guest";
     public final static String PASSWORD = "guest";
