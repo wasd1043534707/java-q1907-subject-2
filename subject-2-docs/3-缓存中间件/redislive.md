@@ -96,3 +96,7 @@ http://192.168.100.242:8888/index.html
 # ImportError: No module named _sqlite3
 解决办法：
 ```
+
+# 7、如果安装慢也可以参考该安装文档
+https://blog.csdn.net/lihao21/article/details/72811455
+
